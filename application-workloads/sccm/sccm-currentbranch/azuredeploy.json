@@ -120,7 +120,7 @@
         "imageReference": {
           "publisher": "MicrosoftWindowsServer",
           "offer": "WindowsServer",
-          "sku": "2022-datacenter",
+          "sku": "2016-datacenter",
           "version": "latest"
         }
       },
@@ -131,7 +131,7 @@
         "imageReference": {
           "publisher": "MicrosoftWindowsServer",
           "offer": "WindowsServer",
-          "sku": "2022-datacenter",
+          "sku": "2016-datacenter",
           "version": "latest"
         }
       }
